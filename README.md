@@ -40,7 +40,7 @@ This project focuses on predicting house prices using a neural network implement
 - **Actual vs. Predicted Prices**: Scatter plots comparing actual and predicted prices for training and validation sets.
 
 ## Conclusion
-The model demonstrates reasonable performance in predicting house prices, with a validation R² score of **0.6959**. The results indicate that the neural network can capture patterns in the data, but there is room for improvement, such as feature engineering or experimenting with more advanced architectures.
+The model demonstrates reasonable performance in predicting house prices, with a validation R² score of **0.6959**.
 
 ## How to Run
 1. Ensure all dependencies are installed (`numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `torch`).
